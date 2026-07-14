@@ -80,7 +80,7 @@ I'm interested in engineering solutions that solve real-world problems and can e
 
 <div align="center">
 
-> "Always building. Always learning."
+*"Always building. Always learning."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
