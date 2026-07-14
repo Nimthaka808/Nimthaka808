@@ -1,16 +1,19 @@
-## Hi there 👋
+# SYSTEM_SPEC // nimthaka_perera 🛰️
 
-<!--
-**Nimthaka808/Nimthaka808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://nimthaka.netlify.app/"><b>[ PORTFOLIO ]</b></a> • 
+  <a href="mailto:nimthaka.perera07@gmail.com"><b>[ EMAIL_CONTACT ]</b></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📡 System Overview
+
+```yaml
+system:
+  identity: Nimthaka Perera
+  role: Software Engineering Undergraduate (Year 2)
+  education: National Institute of Business Management (Coventry, UK)
+  focus: "Full-Stack + Embedded Systems (Sensors, Servers, User Interfaces)"
+  philosophy: "Progress over perfection, every time."
+  status: "ONLINE // Actively seeking remote opportunities"
