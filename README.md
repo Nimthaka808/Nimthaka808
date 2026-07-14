@@ -1,19 +1,66 @@
-# SYSTEM_SPEC // nimthaka_perera 🛰️
+# Nimthaka Perera
 
-<p align="left">
-  <a href="https://nimthaka.netlify.app/"><b>[ PORTFOLIO ]</b></a> • 
-  <a href="mailto:nimthaka.perera07@gmail.com"><b>[ EMAIL_CONTACT ]</b></a>
-</p>
+> Building intelligent systems.
+
+Software Engineering undergraduate focused on creating practical technology that bridges software, artificial intelligence, embedded systems, and robotics.
+
+Rather than building projects simply to complete coursework, I'm interested in engineering solutions that solve real-world problems and can evolve into production-ready products.
 
 ---
 
-### 📡 System Overview
+## Current Focus
 
-```yaml
-system:
-  identity: Nimthaka Perera
-  role: Software Engineering Undergraduate (Year 2)
-  education: National Institute of Business Management (Coventry, UK)
-  focus: "Full-Stack + Embedded Systems (Sensors, Servers, User Interfaces)"
-  philosophy: "Progress over perfection, every time."
-  status: "ONLINE // Actively seeking remote opportunities"
+```
+Software Engineering
+├── Backend Systems
+├── Artificial Intelligence
+├── Embedded Systems
+├── Computer Vision
+└── Robotics
+```
+
+---
+
+## Featured Projects
+
+### Smart Healthcare Wristband
+
+Real-time wearable health monitoring using ESP32, Firebase and Android.
+
+### A.R.E.S.
+
+Autonomous robotic surveillance platform powered by Computer Vision.
+
+### FoodDel
+
+Microservice-based food delivery platform built with React, Spring Boot and MySQL.
+
+---
+
+## Currently Learning
+
+- Distributed Systems
+- System Design
+- Cloud Computing
+- DevOps
+- Machine Learning
+
+---
+
+## Philosophy
+
+> Build fewer projects.
+>
+> Make them better.
+>
+> Ship them.
+
+---
+
+## Elsewhere
+
+Portfolio → your website
+
+LinkedIn
+
+Email
