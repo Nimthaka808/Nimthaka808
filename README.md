@@ -24,55 +24,49 @@
 
 Software Engineering undergraduate focused on creating practical technology that bridges software, artificial intelligence, embedded systems, and robotics.
 
-Rather than building projects just to complete coursework, I engineer solutions for real-world problems — ones that can evolve into production-ready products.
+Rather than building projects simply to complete coursework, I'm interested in engineering solutions that solve real-world problems and can evolve into production-ready products.
 
-Current Focus
+---
+
+### 🎯 Focus
+
 ├── Backend Systems
 ├── Artificial Intelligence
 ├── Embedded Systems
 ├── Computer Vision
-└── Robotics
-
----
-
-### 🌱 Currently Learning
-
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-2C5364?style=flat-square)
-![System Design](https://img.shields.io/badge/System_Design-203A43?style=flat-square)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0F2027?style=flat-square&logo=amazonaws&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-2C5364?style=flat-square&logo=githubactions&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-203A43?style=flat-square&logo=tensorflow&logoColor=white)
+├── Robotics
+├── Distributed Systems
+├── System Design
+└── Cloud Computing
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-white?style=flat-square&logo=opencv&logoColor=black)
-![Arduino](https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 GitHub Stats
+**Backend & Data**
 
-<div align="center">
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nimthaka808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimthaka808&layout=compact&theme=tokyonight"/>
+**Embedded / CV / Tools**
 
-</div>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
