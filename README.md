@@ -1,120 +1,90 @@
 <div align="center">
 
-# Nimthaka Perera
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Nimthaka%20Perera&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-### Software Engineering Undergraduate | Building Intelligent Systems
+<a href="https://your-website-url.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p>
-Exploring the intersection of software, artificial intelligence,
-embedded systems, and robotics to create solutions for real-world problems.
-</p>
+<br/><br/>
 
-<br>
-
-<a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
-&nbsp; • &nbsp;
-<a href="YOUR_LINKEDIN">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;AI+%7C+Embedded+Systems+%7C+Robotics;Build+fewer+projects.+Make+them+better.+Ship+them." alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👋 About Me
 
-I'm a Software Engineering undergraduate interested in designing and building
-technology that bridges the gap between software and the physical world.
+Software Engineering undergraduate focused on creating practical technology that bridges software, artificial intelligence, embedded systems, and robotics.
 
-My focus is on creating practical solutions through:
+Rather than building projects just to complete coursework, I engineer solutions for real-world problems — ones that can evolve into production-ready products.
 
-- 🤖 Artificial Intelligence & Computer Vision
-- ⚙️ Embedded Systems & IoT
-- 🏗️ Backend Engineering & System Design
-- 🌐 Full Stack Development
-- 🚀 Product-focused Software Engineering
-
-I enjoy working on projects that go beyond coursework and explore how
-technology can solve real-world challenges.
-
----
-
-## 🔭 Current Focus
-
-```
-Software Engineering
-│
+Current Focus
 ├── Backend Systems
 ├── Artificial Intelligence
+├── Embedded Systems
 ├── Computer Vision
-├── Embedded Technologies
 └── Robotics
-```
 
 ---
 
-## 🛠️ Technical Skills
+### 🌱 Currently Learning
 
-### Languages
-
-```
-Java | Python | C++ | JavaScript | SQL
-```
-
-### Development
-
-```
-React | Spring Boot | REST APIs | Microservices
-```
-
-### AI & Embedded
-
-```
-OpenCV | ESP32 | Arduino | Firebase
-```
-
-### Tools
-
-```
-Git | GitHub | Docker | Figma | VS Code
-```
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-2C5364?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-203A43?style=flat-square)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0F2027?style=flat-square&logo=amazonaws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-2C5364?style=flat-square&logo=githubactions&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-203A43?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
-## 📌 Featured Work
+### 🛠️ Tech Stack
 
-My repositories showcase projects involving:
+<div align="center">
 
-- Healthcare monitoring systems
-- Autonomous robotics solutions
-- Full-stack applications
-- Software engineering experiments
-- Embedded and IoT solutions
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-white?style=flat-square&logo=opencv&logoColor=black)
+![Arduino](https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-## 🌱 Currently Learning
-
-- System Design
-- Cloud Computing
-- DevOps Practices
-- Machine Learning
-- Scalable Software Architecture
+</div>
 
 ---
 
-## 💭 Engineering Philosophy
+### 📊 GitHub Stats
 
-> Build solutions, not just assignments.
+<div align="center">
 
-> Learn deeply. Build consistently. Improve continuously.
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/>
+
+</div>
+
+> 💡 Replace `your-github-username` above to activate your stats.
 
 ---
 
 <div align="center">
 
-### Let's build something meaningful.
+### 📌 Pinned below ↓
 
-⭐ Explore my repositories to see what I'm building.
+*Featured projects are pinned to this profile — check them out above.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
+
