@@ -24,7 +24,7 @@
 
 Software Engineering undergraduate focused on creating practical technology that bridges software, artificial intelligence, embedded systems, and robotics.
 
-Rather than building projects simply to complete coursework, I'm interested in engineering solutions that solve real-world problems and can evolve into production-ready products.
+I'm interested in engineering solutions that solve real-world problems and can evolve into production-ready products.
 
 ---
 
@@ -75,3 +75,15 @@ Rather than building projects simply to complete coursework, I'm interested in e
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+<div align="center">
+
+### 📌 Pinned below ↓
+
+*Featured projects are pinned to this profile — check them out above.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
