@@ -30,14 +30,14 @@ Rather than building projects simply to complete coursework, I'm interested in e
 
 ### 🎯 Focus
 
-├── Backend Systems
-├── Artificial Intelligence
-├── Embedded Systems
-├── Computer Vision
-├── Robotics
-├── Distributed Systems
-├── System Design
-└── Cloud Computing
+![Backend Systems](https://img.shields.io/badge/Backend_Systems-2C5364?style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-203A43?style=flat-square)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0F2027?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-2C5364?style=flat-square)
+![Robotics](https://img.shields.io/badge/Robotics-203A43?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0F2027?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-2C5364?style=flat-square)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-203A43?style=flat-square)
 
 ---
 
@@ -46,6 +46,7 @@ Rather than building projects simply to complete coursework, I'm interested in e
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -61,21 +62,16 @@ Rather than building projects simply to complete coursework, I'm interested in e
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Embedded / CV / Tools**
+**AI / Embedded**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-<div align="center">
-
-### 📌 Pinned below ↓
-
-*Featured projects are pinned to this profile — check them out above.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
-
-</div>
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
