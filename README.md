@@ -69,12 +69,10 @@ Current Focus
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nimthaka808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimthaka808&layout=compact&theme=tokyonight"/>
 
 </div>
-
-> 💡 Replace `your-github-username` above to activate your stats.
 
 ---
 
@@ -87,4 +85,3 @@ Current Focus
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
-
