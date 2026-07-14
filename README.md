@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Nimthaka%20Perera&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://your-website-url.com">
+<a href="https://nimthaka.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/nimthaka-perera-84b87b391">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:nimthaka.perera07@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
