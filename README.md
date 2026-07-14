@@ -1,66 +1,120 @@
+<div align="center">
+
 # Nimthaka Perera
 
-> Building intelligent systems.
+### Software Engineering Undergraduate | Building Intelligent Systems
 
-Software Engineering undergraduate focused on creating practical technology that bridges software, artificial intelligence, embedded systems, and robotics.
+<p>
+Exploring the intersection of software, artificial intelligence,
+embedded systems, and robotics to create solutions for real-world problems.
+</p>
 
-Rather than building projects simply to complete coursework, I'm interested in engineering solutions that solve real-world problems and can evolve into production-ready products.
+<br>
+
+<a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
+&nbsp; • &nbsp;
+<a href="YOUR_LINKEDIN">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="mailto:YOUR_EMAIL">Email</a>
+
+</div>
 
 ---
 
-## Current Focus
+## 👨‍💻 About Me
+
+I'm a Software Engineering undergraduate interested in designing and building
+technology that bridges the gap between software and the physical world.
+
+My focus is on creating practical solutions through:
+
+- 🤖 Artificial Intelligence & Computer Vision
+- ⚙️ Embedded Systems & IoT
+- 🏗️ Backend Engineering & System Design
+- 🌐 Full Stack Development
+- 🚀 Product-focused Software Engineering
+
+I enjoy working on projects that go beyond coursework and explore how
+technology can solve real-world challenges.
+
+---
+
+## 🔭 Current Focus
 
 ```
 Software Engineering
+│
 ├── Backend Systems
 ├── Artificial Intelligence
-├── Embedded Systems
 ├── Computer Vision
+├── Embedded Technologies
 └── Robotics
 ```
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills
 
-### Smart Healthcare Wristband
+### Languages
 
-Real-time wearable health monitoring using ESP32, Firebase and Android.
+```
+Java | Python | C++ | JavaScript | SQL
+```
 
-### A.R.E.S.
+### Development
 
-Autonomous robotic surveillance platform powered by Computer Vision.
+```
+React | Spring Boot | REST APIs | Microservices
+```
 
-### FoodDel
+### AI & Embedded
 
-Microservice-based food delivery platform built with React, Spring Boot and MySQL.
+```
+OpenCV | ESP32 | Arduino | Firebase
+```
+
+### Tools
+
+```
+Git | GitHub | Docker | Figma | VS Code
+```
 
 ---
 
-## Currently Learning
+## 📌 Featured Work
 
-- Distributed Systems
+My repositories showcase projects involving:
+
+- Healthcare monitoring systems
+- Autonomous robotics solutions
+- Full-stack applications
+- Software engineering experiments
+- Embedded and IoT solutions
+
+---
+
+## 🌱 Currently Learning
+
 - System Design
 - Cloud Computing
-- DevOps
+- DevOps Practices
 - Machine Learning
+- Scalable Software Architecture
 
 ---
 
-## Philosophy
+## 💭 Engineering Philosophy
 
-> Build fewer projects.
->
-> Make them better.
->
-> Ship them.
+> Build solutions, not just assignments.
+
+> Learn deeply. Build consistently. Improve continuously.
 
 ---
 
-## Elsewhere
+<div align="center">
 
-Portfolio → your website
+### Let's build something meaningful.
 
-LinkedIn
+⭐ Explore my repositories to see what I'm building.
 
-Email
+</div>
