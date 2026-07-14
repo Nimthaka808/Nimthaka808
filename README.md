@@ -76,7 +76,11 @@ I'm interested in engineering solutions that solve real-world problems and can e
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+---
+
 <div align="center">
+
+> "Always building. Always learning."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
