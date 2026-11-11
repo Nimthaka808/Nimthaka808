@@ -1,16 +1,26 @@
 # Nimthaka Perera
 
-I'm a software engineering undergraduate who likes the point where code meets hardware. I work across backend systems, AI, and embedded projects, and I care more about finishing things properly than starting lots of them.
+Software engineering undergraduate focused on full-stack development. I like building things end to end and getting the details right: authentication, validation and clean data models.
 
-I work mostly in Python, Java, C++ and JavaScript, with React and Spring Boot for web, MySQL and Firebase for data, and OpenCV, Arduino and ESP32 when it's physical.
+### Stack
 
-### Things I've built
+JavaScript · React · Node.js · Express · Java · Spring Boot · SQL · Git
 
-**FoodDel.** A full-stack food ordering platform I built on my own, with separate customer and manager sides. The backend handles password hashing, expiring sessions, role-based access and server-side order validation.
+Picking up next: Docker · GitHub Actions · TypeScript
 
-**A.R.E.S.** A low-cost webcam-driven pan/tilt prototype that detects a person and moves servos to follow. Built with a team.
+### Projects
 
-**Wealthy Minds.** A personal finance platform built to apply core data structures. I wrote the graph component that models cash flow. Built with a team.
+**FoodDel** · solo
+A food ordering platform with separate customer and manager interfaces. Customers browse the menu, keep a persistent cart and track orders, while managers maintain the menu and move orders through fulfilment. The backend uses PBKDF2 password hashing, expiring sessions, role-based authorization and server-side order-total validation.
+`React` `Spring Boot` `MySQL`
+
+**Wealthy Minds** · team
+A personal finance platform built around core data structures: a binary search tree for transaction indexing, a max-heap for surfacing major expenses and a directed graph for cash flow. I built the graph component with adjacency lists and BFS/DFS traversal.
+`Java` `React`
+
+**A.R.E.S** · team
+A low-cost pan/tilt prototype that detects people through a webcam and turns that into servo movement via an Arduino. Covered real-time tracking, power requirements and mechanical stability.
+`Arduino Uno` `OpenCV`
 
 ### Elsewhere
 
