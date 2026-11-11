@@ -1,26 +1,27 @@
 # Nimthaka Perera
 
-Software engineering undergraduate focused on full-stack development. I like building things end to end and getting the details right: authentication, validation and clean data models.
+Software engineering undergraduate focused on full-stack development. I like building things end to end, and I care about the parts users never see but rely on: security, reliability and solid structure.
 
 ### Stack
 
-JavaScript · React · Node.js · Express · Java · Spring Boot · SQL · Git
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,java,spring,mysql,git" />
 
-Picking up next: Docker · GitHub Actions · TypeScript
+Picking up next:
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,githubactions,ts" />
 
 ### Projects
 
+A few so far, with more on the way.
+
 **FoodDel** · solo
-A food ordering platform with separate customer and manager interfaces. Customers browse the menu, keep a persistent cart and track orders, while managers maintain the menu and move orders through fulfilment. The backend uses PBKDF2 password hashing, expiring sessions, role-based authorization and server-side order-total validation.
-`React` `Spring Boot` `MySQL`
+A food ordering platform with separate customer and manager sides, secure logins and server-side order validation.
 
 **Wealthy Minds** · team
-A personal finance platform built around core data structures: a binary search tree for transaction indexing, a max-heap for surfacing major expenses and a directed graph for cash flow. I built the graph component with adjacency lists and BFS/DFS traversal.
-`Java` `React`
+A personal finance platform built on core data structures. I built the graph component that models cash flow.
 
 **A.R.E.S** · team
-A low-cost pan/tilt prototype that detects people through a webcam and turns that into servo movement via an Arduino. Covered real-time tracking, power requirements and mechanical stability.
-`Arduino Uno` `OpenCV`
+A low-cost webcam tracker that detects people and moves a pan/tilt servo mount to follow them.
 
 ### Elsewhere
 
