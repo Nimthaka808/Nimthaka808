@@ -1,6 +1,6 @@
 # Nimthaka Perera
 
-Software engineering undergraduate focused on full-stack development. I like building things end to end, and I care about the parts users never see but rely on: security, reliability and solid structure.
+Software engineering undergraduate focused on full-stack development. I like building things end to end, and I care about the parts users never see but depend on: security, reliability and solid structure.
 
 ### Stack
 
