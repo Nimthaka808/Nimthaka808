@@ -12,4 +12,4 @@ Picking up next:
 
 ### Elsewhere
 
-[Portfolio](https://nimthaka.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/nimthaka-perera-84b87b391)
+[Portfolio](https://nimthaka.netlify.app/) · [LinkedIn](www.linkedin.com/in/nimthaka-perera)
