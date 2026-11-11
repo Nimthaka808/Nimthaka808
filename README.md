@@ -1,17 +1,20 @@
 # Nimthaka Perera
+Software engineering undergraduate. Software, AI and embedded systems.
 
-I'm a software engineering undergraduate who likes the point where code meets hardware. I work across backend systems, AI, and embedded projects, and I care more about finishing things properly than starting lots of them.
+| | |
+|---|---|
+| **Languages** | Python, Java, C++, JavaScript |
+| **Web** | React, Spring Boot, HTML, CSS |
+| **Data** | MySQL, Firebase |
+| **AI / Hardware** | OpenCV, Arduino, ESP32 |
+| **Tools** | Git, Figma, Android Studio |
 
-I work mostly in Python, Java, C++ and JavaScript, with React and Spring Boot for web, MySQL and Firebase for data, and OpenCV, Arduino and ESP32 when it's physical.
+### Projects
 
-### Things I've built
-
-**FoodDel.** A full-stack food ordering platform I built on my own, with separate customer and manager sides. The backend handles password hashing, expiring sessions, role-based access and server-side order validation.
-
-**A.R.E.S.** A low-cost webcam-driven pan/tilt prototype that detects a person and moves servos to follow. Built with a team.
-
-**Wealthy Minds.** A personal finance platform built to apply core data structures. I wrote the graph component that models cash flow. Built with a team.
-
-### Elsewhere
+| Project | What it is | Stack | Role |
+|---|---|---|---|
+| FoodDel | Food ordering platform with customer and manager interfaces | React, Spring Boot, MySQL | Solo |
+| A.R.E.S | Webcam-based human tracking with servo pan/tilt | Arduino, OpenCV | Team |
+| Wealthy Minds | Finance platform using BST, max-heap and graph | Java, React | Team (graph module) |
 
 [Portfolio](https://nimthaka.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/nimthaka-perera-84b87b391) · [Email](mailto:nimthaka.perera07@gmail.com)
